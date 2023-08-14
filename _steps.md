@@ -20,4 +20,10 @@ head and staged
 ### --hard
 head, staged and working
 ### example
-git reset --soft e66820560a(previous commit id)
+git reset --soft e668(previous commit id)
+
+
+## revert
+reset delete commit. revert reset a commit by adding another commit.
+### example
+git revert --no-edit c398 
