@@ -11,3 +11,13 @@
 ## Unstage and restore the state
 1. git restore --staged test.txt
 2. git restore test.txt
+
+## reset
+### --soft
+head only
+### --mixed (default)
+head and staged
+### --hard
+head, staged and working
+### example
+git reset --soft e66820560a(previous commit id)
