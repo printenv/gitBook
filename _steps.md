@@ -29,3 +29,4 @@ reset delete commit. revert reset a commit by adding another commit.
 git revert --no-edit c398 
 
 master test
+sub2 branch test
