@@ -21,5 +21,3 @@ head and staged
 head, staged and working
 ### example
 git reset --soft e66820560a(previous commit id)
-
-adfdas
