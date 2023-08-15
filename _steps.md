@@ -30,3 +30,4 @@ git revert --no-edit c398
 
 master test
 sub2 branch test
+sub branch
