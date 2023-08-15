@@ -28,6 +28,18 @@ reset delete commit. revert reset a commit by adding another commit.
 ### example
 git revert --no-edit c398 
 
+## merge with conflict
+1. git merge c398
+2. Conflict
+3. Edit the files with confilct.
+4. git add changed_files
+5. git commit -m "merge xxx"
+
+### to stop merge on merge conflict
+git merge --abort
+
+
+
 master test
 sub2 branch test
 sub branch
