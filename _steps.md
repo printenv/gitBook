@@ -39,6 +39,12 @@ git revert --no-edit c398
 git merge --abort
 
 
+### stash
+use it when you cannot checkout other branch because of changes in working directory.
+- git stash
+- git stash list
+- git stash pop
+
 
 master test
 sub2 branch test
