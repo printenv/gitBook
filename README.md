@@ -1,4 +1,3 @@
-hohoho!
 # gitBook
 
 Hello, world.
