@@ -45,6 +45,19 @@ use it when you cannot checkout other branch because of changes in working direc
 - git stash list
 - git stash pop
 
+### rm
+remove file from working directory and staging area.
+-git rm file-name
+remove file from only staging area.
+-git rm --cached file-name
+
+## remote
+- git remote -v
+- git push -u origin main
+if you use -u, you can use;<br />
+git push or git pull<br />
+without specifying origin main.
+
 
 master test
 sub2 branch test
