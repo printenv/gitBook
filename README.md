@@ -1,4 +1,4 @@
 # gitBook
 
-Hello, world
-See you.
+Hello, world.
+See you again.
